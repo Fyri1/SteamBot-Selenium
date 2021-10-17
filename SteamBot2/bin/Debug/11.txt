@@ -1,0 +1,328 @@
+M249 | Deep Relief Exterior: Battle-Scarred/14,7706
+M249 | Deep Relief Exterior: Well-Worn/16,8831
+MP9 | Black Sand Exterior: Battle-Scarred/5,36575
+Five-SeveN | Coolant Exterior: Minimal Wear/2,535
+MP9 | Bioleak Exterior: Field-Tested/16,055
+FAMAS | Cyanospatter Exterior: Field-Tested/5,07
+Glock-18 | Catacombs Exterior: Well-Worn/24,98665
+Dual Berettas | Cobalt Quartz Exterior: Field-Tested/14,57625
+Dual Berettas | Cobalt Quartz Exterior: Minimal Wear/16,2916
+Dual Berettas | Elite 1.6 Exterior: Field-Tested/5,34885
+Dual Berettas | Heist Exterior: Field-Tested/4,36865
+Dual Berettas | Stained Exterior: Battle-Scarred/5,34885
+Dual Berettas | Stained Exterior: Field-Tested/5,36575
+Dual Berettas | Stained Exterior: Well-Worn/4,82495
+Dual Berettas | Switch Board Exterior: Field-Tested/17,3732
+FAMAS | Crypsis Exterior: Battle-Scarred/18,3703
+FAMAS | Cyanospatter Exterior: Battle-Scarred/4,85875
+FAMAS | Cyanospatter Exterior: Field-Tested/5,29815
+Five-SeveN | Capillary Exterior: Field-Tested/6,8276
+Five-SeveN | Coolant Exterior: Battle-Scarred/1,5548
+Five-SeveN | Coolant Exterior: Factory New/4,4447
+Five-SeveN | Coolant Exterior: Field-Tested/1,3351
+Five-SeveN | Coolant Exterior: Minimal Wear/2,56035
+Five-SeveN | Coolant Exterior: Well-Worn/1,74915
+Five-SeveN | Flame Test Exterior: Battle-Scarred/5,55165
+Five-SeveN | Flame Test Exterior: Field-Tested/5,29815
+Five-SeveN | Flame Test Exterior: Minimal Wear/8,1627
+Five-SeveN | Orange Peel Exterior: Battle-Scarred/5,3404
+Five-SeveN | Orange Peel Exterior: Field-Tested/6,5065
+Five-SeveN | Scumbria Exterior: Battle-Scarred/5,34885
+Five-SeveN | Scumbria Exterior: Field-Tested/5,66995
+Five-SeveN | Scumbria Exterior: Well-Worn/5,70375
+Five-SeveN | Violent Daimyo Exterior: Field-Tested/12,85245
+G3SG1 | Digital Mesh Exterior: Field-Tested/12,21025
+G3SG1 | Green Apple Exterior: Factory New/11,8131
+G3SG1 | Green Apple Exterior: Minimal Wear/8,91475
+G3SG1 | Hunter Exterior: Battle-Scarred/5,2728
+G3SG1 | Hunter Exterior: Field-Tested/5,45025
+G3SG1 | Hunter Exterior: Minimal Wear/6,9459
+G3SG1 | Hunter Exterior: Well-Worn/5,34885
+G3SG1 | Orange Crash Exterior: Field-Tested/5,6615
+G3SG1 | VariCamo Exterior: Field-Tested/5,45025
+G3SG1 | Ventilator Exterior: Field-Tested/5,34885
+Galil AR | Akoben Exterior: Field-Tested/12,4891
+Galil AR | Black Sand Exterior: Battle-Scarred/8,57675
+Galil AR | Black Sand Exterior: Field-Tested/8,9401
+Galil AR | Black Sand Exterior: Well-Worn/8,5852
+Galil AR | Cold Fusion Exterior: Field-Tested/5,8305
+Galil AR | Cold Fusion Exterior: Minimal Wear/10,985
+Galil AR | Connexion Exterior: Field-Tested/57,60365
+Galil AR | Vandal Exterior: Field-Tested/9,9372
+Galil AR | Vandal Exterior: Well-Worn/8,64435
+Galil AR | VariCamo Exterior: Field-Tested/5,2221
+Galil AR | VariCamo Exterior: Minimal Wear/6,76
+Glock-18 | Bunsen Burner Exterior: Field-Tested/16,055
+Glock-18 | Bunsen Burner Exterior: Minimal Wear/23,5248
+Glock-18 | Candy Apple Exterior: Minimal Wear/52,04355
+Glock-18 | Death Rattle Exterior: Field-Tested/6,75155
+Glock-18 | Death Rattle Exterior: Minimal Wear/9,0415
+Glock-18 | High Beam Exterior: Factory New/17,83795
+Glock-18 | Ironwork Exterior: Battle-Scarred/9,8189
+Glock-18 | Ironwork Exterior: Field-Tested/10,2752
+Glock-18 | Ironwork Exterior: Minimal Wear/13,9594
+Glock-18 | Ironwork Exterior: Well-Worn/10,2076
+Glock-18 | Moonrise Exterior: Field-Tested/33,6648
+Glock-18 | Moonrise Exterior: Minimal Wear/58,9134
+Glock-18 | Off World Exterior: Battle-Scarred/9,8696
+Glock-18 | Off World Exterior: Field-Tested/10,11465
+Glock-18 | Off World Exterior: Minimal Wear/11,83
+Glock-18 | Off World Exterior: Well-Worn/9,7175
+Glock-18 | Oxide Blaze Exterior: Battle-Scarred/7,267
+Glock-18 | Oxide Blaze Exterior: Field-Tested/7,267
+Glock-18 | Oxide Blaze Exterior: Minimal Wear/10,2752
+Glock-18 | Sacrifice Exterior: Field-Tested/13,0299
+Glock-18 | Sacrifice Exterior: Well-Worn/12,4891
+Glock-18 | Warhawk Exterior: Battle-Scarred/11,21315
+Glock-18 | Warhawk Exterior: Field-Tested/11,83
+Glock-18 | Warhawk Exterior: Minimal Wear/17,83795
+Glock-18 | Warhawk Exterior: Well-Worn/13,37635
+Glock-18 | Wraiths Exterior: Field-Tested/11,28075
+M249 | Gator Mesh Exterior: Field-Tested/5,577
+M249 | Predator Exterior: Battle-Scarred/4,47005
+M249 | Predator Exterior: Field-Tested/4,6306
+M4A1-S | Boreal Forest Exterior: Battle-Scarred/6,5741
+M4A1-S | Boreal Forest Exterior: Field-Tested/6,4558
+M4A1-S | Boreal Forest Exterior: Minimal Wear/22,38405
+M4A1-S | Boreal Forest Exterior: Well-Worn/9,6837
+M4A1-S | Flashback Exterior: Field-Tested/52,63505
+M4A1-S | Nitro Exterior: Field-Tested/60,67945
+M4A1-S | Nitro Exterior: Minimal Wear/107,9234
+M4A4 | Magnesium Exterior: Battle-Scarred/11,33145
+M4A4 | Magnesium Exterior: Field-Tested/19,07165
+M4A4 | Magnesium Exterior: Minimal Wear/40,1544
+M4A4 | Magnesium Exterior: Well-Worn/13,52
+M4A4 | Mainframe Exterior: Factory New/16,2916
+M4A4 | Mainframe Exterior: Field-Tested/6,1516
+M4A4 | Mainframe Exterior: Minimal Wear/8,91475
+M4A4 | Urban DDPAT Exterior: Battle-Scarred/11,83
+M4A4 | Urban DDPAT Exterior: Field-Tested/11,8131
+M4A4 | Urban DDPAT Exterior: Minimal Wear/51,8492
+M4A4 | Urban DDPAT Exterior: Well-Worn/12,3539
+MAC-10 | Calf Skin Exterior: Field-Tested/10,30055
+MAC-10 | Calf Skin Exterior: Well-Worn/9,295
+MAC-10 | Candy Apple Exterior: Factory New/17,73655
+MAC-10 | Candy Apple Exterior: Minimal Wear/13,37635
+MAC-10 | Carnivore Exterior: Well-Worn/11,63565
+MAC-10 | Classic Crate Exterior: Field-Tested/5,90655
+MAC-10 | Classic Crate Exterior: Well-Worn/5,8981
+MAC-10 | Oceanic Exterior: Field-Tested/6,80225
+MAC-10 | Palm Exterior: Field-Tested/6,41355
+MAC-10 | Silver Exterior: Factory New/12,7088
+MAC-10 | Whitefish Exterior: Battle-Scarred/8,0275
+MAC-10 | Whitefish Exterior: Field-Tested/9,8865
+MAC-10 | Whitefish Exterior: Well-Worn/9,295
+MAG-7 | Carbon Fiber Exterior: Factory New/24,2515
+MAG-7 | Carbon Fiber Exterior: Factory New/24,2515
+MAG-7 | Carbon Fiber Exterior: Factory New/24,2515
+MAG-7 | Metallic DDPAT Exterior: Factory New/17,6605
+MAG-7 | Popdog Exterior: Field-Tested/5,19675
+MAG-7 | Rust Coat Exterior: Battle-Scarred/1,5041
+MAG-7 | Rust Coat Exterior: Field-Tested/1,47875
+MAG-7 | Rust Coat Exterior: Minimal Wear/1,9435
+MAG-7 | Rust Coat Exterior: Well-Worn/1,36045
+MAG-7 | Sonar Exterior: Field-Tested/10,70615
+MAG-7 | Sonar Exterior: Minimal Wear/12,6074
+MP5-SD | Desert Strike Exterior: Battle-Scarred/5,26435
+MP5-SD | Desert Strike Exterior: Field-Tested/5,8812
+MP5-SD | Desert Strike Exterior: Minimal Wear/8,23875
+MP5-SD | Desert Strike Exterior: Well-Worn/5,4925
+MP5-SD | Dirt Drop Exterior: Minimal Wear/1,78295
+MP5-SD | Nitro Exterior: Field-Tested/17,04365
+MP7 | Akoben Exterior: Field-Tested/5,34885
+MP7 | Anodized Navy Exterior: Factory New/61,65965
+MP7 | Cirrus Exterior: Field-Tested/9,633
+MP7 | Mischief Exterior: Battle-Scarred/8,45
+MP7 | Mischief Exterior: Field-Tested/9,295
+MP7 | Motherboard Exterior: Field-Tested/5,8305
+MP7 | Motherboard Exterior: Minimal Wear/8,91475
+MP7 | Urban Hazard Exterior: Field-Tested/5,88965
+MP9 | Army Sheen Exterior: Factory New/6,02485
+MP9 | Army Sheen Exterior: Field-Tested/3,5152
+MP9 | Army Sheen Exterior: Minimal Wear/3,6504
+MP9 | Black Sand Exterior: Battle-Scarred/5,3235
+MP9 | Black Sand Exterior: Field-Tested/5,2897
+MP9 | Black Sand Exterior: Minimal Wear/7,44445
+MP9 | Black Sand Exterior: Well-Worn/5,50095
+MP9 | Modest Threat Exterior: Field-Tested/5,75445
+MP9 | Modest Threat Exterior: Minimal Wear/9,3964
+MP9 | Sand Scale Exterior: Field-Tested/8,91475
+MP9 | Slide Exterior: Battle-Scarred/1,3013
+MP9 | Slide Exterior: Field-Tested/1,2675
+MP9 | Slide Exterior: Minimal Wear/2,0787
+MP9 | Slide Exterior: Well-Worn/1,42805
+Negev | Army Sheen Exterior: Factory New/3,35465
+Negev | Boroque Sand Exterior: Battle-Scarred/12,0666
+Negev | Boroque Sand Exterior: Well-Worn/13,35945
+Negev | Bulkhead Exterior: Factory New/16,90845
+Negev | Bulkhead Exterior: Field-Tested/5,90655
+Negev | Bulkhead Exterior: Minimal Wear/8,91475
+Negev | Dazzle Exterior: Field-Tested/5,29815
+Negev | Prototype Exterior: Battle-Scarred/5,3235
+Negev | Prototype Exterior: Field-Tested/5,6953
+Negev | Ultralight Exterior: Battle-Scarred/5,16295
+Negev | Ultralight Exterior: Field-Tested/5,6953
+Negev | Ultralight Exterior: Minimal Wear/8,74575
+Nova | Army Sheen Exterior: Factory New/8,64435
+Nova | Army Sheen Exterior: Minimal Wear/5,6953
+Nova | Caged Steel Exterior: Factory New/12,506
+Nova | Candy Apple Exterior: Factory New/11,9652
+Nova | Candy Apple Exterior: Minimal Wear/6,70085
+Nova | Exo Exterior: Field-Tested/8,91475
+Nova | Mandrel Exterior: Factory New/3,76025
+Nova | Mandrel Exterior: Field-Tested/1,14075
+Nova | Mandrel Exterior: Minimal Wear/1,63085
+Nova | Mandrel Exterior: Well-Worn/1,3351
+Nova | Wild Six Exterior: Field-Tested/32,11845
+Nova | Wood Fired Exterior: Field-Tested/5,408
+P2000 | Gnarled Exterior: Battle-Scarred/6,02485
+P2000 | Gnarled Exterior: Field-Tested/6,24455
+P2000 | Gnarled Exterior: Minimal Wear/9,35415
+P2000 | Gnarled Exterior: Well-Worn/5,87275
+P2000 | Granite Marbleized Exterior: Field-Tested/5,24745
+P2000 | Granite Marbleized Exterior: Minimal Wear/6,86985
+P2000 | Ivory Exterior: Field-Tested/5,5601
+P2000 | Oceanic Exterior: Field-Tested/5,34885
+P2000 | Oceanic Exterior: Minimal Wear/9,8189
+P2000 | Turf Exterior: Field-Tested/10,3428
+P2000 | Turf Exterior: Minimal Wear/14,20445
+P2000 | Turf Exterior: Well-Worn/10,08085
+P2000 | Urban Hazard Exterior: Battle-Scarred/5,24745
+P2000 | Urban Hazard Exterior: Field-Tested/5,3235
+P2000 | Urban Hazard Exterior: Minimal Wear/7,0642
+P2000 | Urban Hazard Exterior: Well-Worn/5,2897
+P250 | Cassette Exterior: Battle-Scarred/6,2361
+P250 | Cassette Exterior: Factory New/25,62885
+P250 | Cassette Exterior: Field-Tested/6,6755
+P250 | Cassette Exterior: Minimal Wear/14,0946
+P250 | Facility Draft Exterior: Factory New/4,225
+P250 | Facility Draft Exterior: Field-Tested/1,183
+P250 | Facility Draft Exterior: Minimal Wear/1,98575
+P250 | Facility Draft Exterior: Well-Worn/1,3013
+P250 | Forest Night Exterior: Minimal Wear/4,1743
+P250 | Forest Night Exterior: Well-Worn/3,42225
+P250 | Iron Clad Exterior: Field-Tested/8,0782
+P250 | Metallic DDPAT Exterior: Factory New/17,83795
+P250 | Ripple Exterior: Factory New/15,0579
+P250 | Ripple Exterior: Field-Tested/6,24455
+P250 | Ripple Exterior: Minimal Wear/8,8894
+P250 | Valence Exterior: Battle-Scarred/11,323
+P250 | Valence Exterior: Field-Tested/10,8836
+P250 | Valence Exterior: Minimal Wear/19,62935
+P250 | Verdigris Exterior: Battle-Scarred/9,8189
+P250 | Verdigris Exterior: Field-Tested/10,72305
+P90 | Ancient Earth Exterior: Field-Tested/5,34885
+P90 | Ancient Earth Exterior: Minimal Wear/5,95725
+P90 | Ash Wood Exterior: Factory New/17,3732
+P90 | Ash Wood Exterior: Field-Tested/11,5934
+P90 | Ash Wood Exterior: Minimal Wear/13,2665
+P90 | Cocoa Rampage Exterior: Field-Tested/9,8189
+P90 | Elite Build Exterior: Field-Tested/15,1762
+P90 | Freight Exterior: Battle-Scarred/6,24455
+P90 | Freight Exterior: Field-Tested/5,90655
+P90 | Freight Exterior: Minimal Wear/8,59365
+P90 | Freight Exterior: Well-Worn/5,90655
+P90 | Grim Exterior: Battle-Scarred/11,661
+P90 | Grim Exterior: Field-Tested/12,4891
+P90 | Off World Exterior: Battle-Scarred/9,0415
+P90 | Off World Exterior: Field-Tested/9,92875
+P90 | Traction Exterior: Field-Tested/10,57095
+PP-Bizon | Candy Apple Exterior: Factory New/15,4297
+PP-Bizon | Candy Apple Exterior: Minimal Wear/11,85535
+PP-Bizon | Death Rattle Exterior: Field-Tested/4,31795
+PP-Bizon | Death Rattle Exterior: Minimal Wear/5,9995
+PP-Bizon | Facility Sketch Exterior: Battle-Scarred/1,24215
+PP-Bizon | Facility Sketch Exterior: Factory New/4,1574
+PP-Bizon | Facility Sketch Exterior: Field-Tested/1,12385
+PP-Bizon | Facility Sketch Exterior: Minimal Wear/1,9435
+PP-Bizon | Facility Sketch Exterior: Well-Worn/1,2844
+PP-Bizon | Jungle Slipstream Exterior: Field-Tested/6,1685
+PP-Bizon | Night Ops Exterior: Factory New/10,82445
+PP-Bizon | Night Ops Exterior: Field-Tested/5,34885
+PP-Bizon | Night Riot Exterior: Battle-Scarred/5,34885
+PP-Bizon | Night Riot Exterior: Field-Tested/5,24745
+PP-Bizon | Night Riot Exterior: Minimal Wear/7,34305
+PP-Bizon | Runic Exterior: Battle-Scarred/5,34885
+PP-Bizon | Runic Exterior: Field-Tested/6,24455
+PP-Bizon | Runic Exterior: Minimal Wear/8,91475
+PP-Bizon | Runic Exterior: Well-Worn/5,34885
+R8 Revolver | Bone Forged Exterior: Field-Tested/5,2052
+R8 Revolver | Bone Forged Exterior: Minimal Wear/8,8387
+R8 Revolver | Crimson Web Exterior: Field-Tested/9,55695
+R8 Revolver | Grip Exterior: Battle-Scarred/5,36575
+R8 Revolver | Grip Exterior: Field-Tested/5,29815
+R8 Revolver | Grip Exterior: Minimal Wear/8,0275
+R8 Revolver | Grip Exterior: Well-Worn/5,8812
+R8 Revolver | Night Exterior: Field-Tested/4,47005
+R8 Revolver | Nitro Exterior: Field-Tested/9,3964
+R8 Revolver | Nitro Exterior: Minimal Wear/11,8131
+R8 Revolver | Survivalist Exterior: Field-Tested/8,0275
+Sawed-Off | Black Sand Exterior: Battle-Scarred/5,8812
+Sawed-Off | Black Sand Exterior: Field-Tested/5,07
+Sawed-Off | Black Sand Exterior: Well-Worn/5,66995
+Sawed-Off | Clay Ambush Exterior: Field-Tested/4,38555
+Sawed-Off | Fubar Exterior: Battle-Scarred/5,21365
+Sawed-Off | Morris Exterior: Battle-Scarred/5,73755
+Sawed-Off | Morris Exterior: Field-Tested/5,8474
+Sawed-Off | Morris Exterior: Minimal Wear/7,6726
+Sawed-Off | Morris Exterior: Well-Worn/5,34885
+Sawed-Off | Snake Camo Exterior: Battle-Scarred/5,3404
+Sawed-Off | Snake Camo Exterior: Field-Tested/6,34595
+Sawed-Off | Snake Camo Exterior: Well-Worn/5,6953
+Sawed-Off | Zander Exterior: Field-Tested/6,05865
+SCAR-20 | Assault Exterior: Field-Tested/5,36575
+SCAR-20 | Blueprint Exterior: Field-Tested/6,24455
+SCAR-20 | Carbon Fiber Exterior: Factory New/17,65205
+SCAR-20 | Jungle Slipstream Exterior: Factory New/14,196
+SCAR-20 | Jungle Slipstream Exterior: Field-Tested/5,78825
+SG 553 | Aerial Exterior: Field-Tested/12,675
+SG 553 | Aerial Exterior: Minimal Wear/14,196
+SG 553 | Aloha Exterior: Battle-Scarred/5,19675
+SG 553 | Aloha Exterior: Factory New/14,59315
+SG 553 | Aloha Exterior: Field-Tested/5,6953
+SG 553 | Aloha Exterior: Minimal Wear/7,098
+SG 553 | Anodized Navy Exterior: Factory New/63,16375
+SG 553 | Army Sheen Exterior: Factory New/3,5152
+SG 553 | Atlas Exterior: Field-Tested/5,31505
+SG 553 | Danger Close Exterior: Battle-Scarred/5,577
+SG 553 | Danger Close Exterior: Field-Tested/5,63615
+SG 553 | Danger Close Exterior: Minimal Wear/7,3346
+SG 553 | Danger Close Exterior: Well-Worn/6,24455
+SG 553 | Lush Ruins Exterior: Field-Tested/4,96015
+SG 553 | Ol' Rusty Exterior: Battle-Scarred/5,80515
+SG 553 | Ol' Rusty Exterior: Field-Tested/6,2192
+SG 553 | Ol' Rusty Exterior: Minimal Wear/10,3428
+SG 553 | Phantom Exterior: Field-Tested/25,4007
+SG 553 | Triarch Exterior: Field-Tested/26,27105
+SSG 08 | Abyss Exterior: Battle-Scarred/11,6103
+SSG 08 | Abyss Exterior: Field-Tested/15,9705
+SSG 08 | Abyss Exterior: Minimal Wear/42,25
+SSG 08 | Abyss Exterior: Well-Worn/13,1313
+SSG 08 | Acid Fade Exterior: Factory New/89,32495
+SSG 08 | Fever Dream Exterior: Field-Tested/50,86055
+SSG 08 | Ghost Crusader Exterior: Field-Tested/43,72875
+SSG 08 | Jungle Dashed Exterior: Field-Tested/4,87565
+SSG 08 | Mainframe 001 Exterior: Battle-Scarred/9,4809
+SSG 08 | Mainframe 001 Exterior: Field-Tested/11,88915
+SSG 08 | Mainframe 001 Exterior: Minimal Wear/21,4123
+SSG 08 | Mainframe 001 Exterior: Well-Worn/9,295
+SSG 08 | Necropos Exterior: Battle-Scarred/12,39615
+SSG 08 | Necropos Exterior: Field-Tested/15,0748
+SSG 08 | Necropos Exterior: Well-Worn/13,858
+Tec-9 | Army Mesh Exterior: Factory New/3,54055
+Tec-9 | Cracked Opal Exterior: Battle-Scarred/5,26435
+Tec-9 | Cracked Opal Exterior: Field-Tested/5,77135
+Tec-9 | Cracked Opal Exterior: Well-Worn/5,31505
+Tec-9 | Flash Out Exterior: Field-Tested/5,3573
+Tec-9 | Fubar Exterior: Battle-Scarred/5,31505
+Tec-9 | Fubar Exterior: Field-Tested/5,4587
+Tec-9 | Fubar Exterior: Well-Worn/6,22765
+Tec-9 | Ice Cap Exterior: Field-Tested/8,86405
+Tec-9 | Phoenix Chalk Exterior: Field-Tested/4,4278
+Tec-9 | Phoenix Chalk Exterior: Minimal Wear/6,26145
+Tec-9 | Red Quartz Exterior: Factory New/13,44395
+Tec-9 | Red Quartz Exterior: Field-Tested/13,79885
+Tec-9 | Red Quartz Exterior: Minimal Wear/14,196
+Tec-9 | Sandstorm Exterior: Field-Tested/9,59075
+Tec-9 | Snek-9 Exterior: Well-Worn/8,00215
+Tec-9 | VariCamo Exterior: Field-Tested/6,43045
